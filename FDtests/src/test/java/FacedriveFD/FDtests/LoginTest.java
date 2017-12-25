@@ -38,7 +38,7 @@ public class LoginTest {
 		
 		Assert.assertTrue(onDashboardPage.getConfirmationMessageDashboardPage().getText().contains("Total Earnings"));
 		
-		Thread.sleep(10000);
+		Thread.sleep(5000);
 		
 		
 	}
